@@ -23,7 +23,7 @@ Cities must be made more intelligent, connected, and sustainable to shape the fu
 
 ## Get Involved
 
-We welcome contributions from the community. To get started, check out our [Contribution Guidelines](./CONTRIBUTING.md).
+We welcome contributions from the community. To get started, you can check out our [Contribution Guidelines](./CONTRIBUTING.md).
 
 ## Contact Us
 
