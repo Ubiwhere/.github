@@ -35,6 +35,4 @@ We welcome contributions from the community. To get started, check out our [Cont
 
 ## Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubiwhere&show_icons=true)
-
 Thank you for visiting our profile! We are excited to collaborate with developers and enthusiasts worldwide.
